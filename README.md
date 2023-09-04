@@ -5,8 +5,7 @@ I'm a Full-Stack Developer, as well as a Mechanical Enegineering student at UPV.
 <br/>
 
 # 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) <br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,jest,git,nodejs,express, mongodb)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,jest,git,nodejs,express,mongodb)](https://skillicons.dev)
 <br/>
 
 ### Contact
