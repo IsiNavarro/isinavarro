@@ -2,9 +2,12 @@
 <div align="justify">
 I'm a Full-Stack Developer, as well as a Mechanical Enegineering student at UPV. 🌍 Valencia, Spain.
 </div>
-
-<br/><a href="https://www.linkedin.com/in/isidro-navarro-oporto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:isinavarrooporto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<br/>
 
 # 🔧 Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,jest,git,nodejs,express, mongodb)](https://skillicons.dev)
+<br/>
+
+## Contacts
+<br/><a href="https://www.linkedin.com/in/isidro-navarro-oporto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:isinavarrooporto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
