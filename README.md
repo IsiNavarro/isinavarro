@@ -1,11 +1,11 @@
 # Hello there! 👋 I'm Isidro Navarro
 <div align="justify">
-I'm a Full-Stack Developer, as well as a Mechanical Enegineering student at UPV. 🌍 Valencia, Spain.
+I'm a Front-End Developer, as well as a Mechanical Enegineering student at UPV, Valencia, Spain 🌍.
 </div>
 <br/>
 
 # 🔧 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,jest,git,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,jest,git)](https://skillicons.dev)
 <br/>
 
 ### Contact
