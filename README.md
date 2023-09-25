@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Isidro Navarro
+# Hello there! 👋 I'm Isidro
 <div align="justify">
 I'm a Front-End Developer, as well as a Mechanical Enegineering student at UPV, Valencia, Spain 🌍.
 </div>
