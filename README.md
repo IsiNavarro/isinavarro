@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Isidro
 <div align="justify">
-I'm a Mechanical Enegineering student with a keen passion for programming and IT at UPV, Valencia, Spain 🌍.
+I'm a Mechanical Enegineer with a keen passion for programming and IT, Mannheim, Germany 🌍.
 </div>
 <br/>
 
