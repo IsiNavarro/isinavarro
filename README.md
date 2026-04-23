@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Isidro
 <div align="justify">
-I'm a Mechanical Enegineer with a keen passion for programming and IT, Mannheim, Germany 🌍.
+I'm a Mechanical Enegineer with a keen passion for programming and IT. Currently based in Mannheim, Germany 🌍.
 </div>
 <br/>
 
